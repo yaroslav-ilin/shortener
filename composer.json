@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "~2.5",
+        "endroid/qrcode": "~1.4"
+    }
+}

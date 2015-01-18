@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{DOCUMENT_ROOT} !-f
+RewriteRule ^(.*)$ index.php [QSA,L]
+
