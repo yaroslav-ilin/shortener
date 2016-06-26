@@ -2,16 +2,15 @@
 
 Everybody has a right to have short URLs!
 
-Application built on top of [Slim Framework](http://slimframework.com), because I absolutely love microframeworks and have had unused PHP server.
+Application built on top of [Slim Framework](http://slimframework.com), because I absolutely love microframeworks and have had unused PHP server as well as short domain name.
 
 It uses simplest .ini file to store matches of short URLs to their long friends, because I believe that deployment should not be painful.
 
-### Realy? And that’s all it does? ###
+### Really? Is that all it does? ###
 
 As a side bonus for every tiny URL you automagically have QR Code.
 Check this out:
-
-![my personal page](http://mnt.so/me/qr?size=300 "Scan this picture with your mobile device’s QR Reader)
+![my personal page](http://mnt.so/me/qr?size=300 "Scan this picture with your mobile device’s QR Reader")
 
 ### How do I get set up? ###
 
